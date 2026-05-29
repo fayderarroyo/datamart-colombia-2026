@@ -1,0 +1,37 @@
+ID_Ciudad,Nombre_GEIH,Nombre_Poblacion_DANE,Depto_MinTIC,Municipio_MinTIC,Codigo_DP,Poblacion_2024,Clasificacion,Cumple_100K_500K,Es_Intermedia_Estricta
+1,Bogotá D.C.,"Bogotá, D.C.",BOGOTÁ D.C.,"BOGOTÁ, D.C.",11,7929539,Principal,NO,NO
+2,Medellín A.M.,Medellín,ANTIOQUIA,MEDELLÍN,5,2616335,Principal,NO,NO
+3,Cali A.M.,Cali,VALLE DEL CAUCA,CALI,76,2283846,Principal,NO,NO
+4,Barranquilla A.M.,Barranquilla,ATLÁNTICO,BARRANQUILLA,8,1334509,Principal,NO,NO
+5,Bucaramanga A.M.,Bucaramanga,SANTANDER,BUCARAMANGA,68,619703,Área Metro,NO,NO
+6,Manizales A.M.,Manizales,CALDAS,MANIZALES,17,457022,Intermedia,SÍ,SÍ
+7,Pasto,Pasto,NARIÑO,PASTO,52,413484,Intermedia,SÍ,SÍ
+8,Pereira A.M.,Pereira,RISARALDA,PEREIRA,66,482483,Intermedia,SÍ,SÍ
+9,Cúcuta A.M.,San José de Cúcuta,NORTE DE SANTANDER,CÚCUTA,54,812176,Grande,NO,NO
+10,Ibagué,Ibagué,TOLIMA,IBAGUÉ,73,544132,Grande,NO,NO
+11,Montería,Montería,CÓRDOBA,MONTERÍA,23,527456,Grande,NO,NO
+12,Cartagena,Cartagena de Indias,BOLÍVAR,CARTAGENA DE INDIAS,13,1059626,Grande,NO,NO
+13,Villavicencio,Villavicencio,META,VILLAVICENCIO,50,585858,Grande,NO,NO
+14,Tunja,Tunja,BOYACÁ,TUNJA,15,187286,Intermedia,SÍ,SÍ
+15,Florencia,Florencia,CAQUETA,FLORENCIA,18,179233,Intermedia,SÍ,SÍ
+16,Popayán,Popayán,CAUCA,POPAYÁN,19,343011,Intermedia,SÍ,SÍ
+17,Valledupar,Valledupar,CESAR,VALLEDUPAR,20,567593,Grande,NO,NO
+18,Quibdó,Quibdó,CHOCÓ,QUIBDÓ,27,144610,Intermedia,SÍ,SÍ
+19,Neiva,Neiva,HUILA,NEIVA,41,384242,Intermedia,SÍ,SÍ
+20,Riohacha,Riohacha,LA GUAJIRA,RIOHACHA,44,226715,Intermedia,SÍ,SÍ
+21,Armenia,Armenia,QUINDÍO,ARMENIA,63,309474,Intermedia,SÍ,SÍ
+22,Sincelejo,Sincelejo,SUCRE,SINCELEJO,70,314233,Intermedia,SÍ,SÍ
+23,Arauca,Arauca,ARAUCA,ARAUCA,81,100690,Intermedia,SÍ,SÍ
+24,Yopal,Yopal,CASANARE,YOPAL,85,194079,Intermedia,SÍ,SÍ
+25,Mocoa,Mocoa,PUTUMAYO,MOCOA,86,46000,Pequeña,NO,NO
+26,Leticia,Leticia,AMAZONAS,LETICIA,91,43000,Pequeña,NO,NO
+27,Inírida,Inírida,GUAINÍA,INÍRIDA,94,23000,Pequeña,NO,NO
+28,San José del Guaviare,San José del Guaviare,GUAVIARE,SAN JOSÉ DEL GUAVIARE,95,80000,Pequeña,NO,NO
+29,Mitú,Mitú,VAUPÉS,MITÚ,97,20000,Pequeña,NO,NO
+30,Puerto Carreño,Puerto Carreño,VICHADA,PUERTO CARREÑO,99,16000,Pequeña,NO,NO
+31,San Andrés,San Andrés,SAN ANDRÉS,SAN ANDRÉS,88,74000,Pequeña,NO,NO
+32,Buenaventura,Buenaventura,VALLE DEL CAUCA,BUENAVENTURA,76,324130,Intermedia,SÍ,SÍ
+33,Barrancabermeja,Barrancabermeja,SANTANDER,BARRANCABERMEJA,68,216326,Intermedia,SÍ,SÍ
+34,Soacha,Soacha,CUNDINAMARCA,SOACHA,25,806253,Grande,NO,NO
+35,Tumaco,San Andrés de Tumaco,NARIÑO,TUMACO,52,267010,Intermedia,SÍ,SÍ
+36,Rionegro (Antioquia),Rionegro,ANTIOQUIA,RIONEGRO,5,120000,Intermedia,SÍ,SÍ

@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+
+# Variables de entorno (¡CRÍTICO: NUNCA SUBIR A GITHUB!)
+.env
+
+# Archivos de datos pesados (opcional, pero recomendado si usas Supabase)
+# *.csv
+# *.xlsx
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
