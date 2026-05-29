@@ -4,9 +4,11 @@
  Proyecto Integrador — Clase de Visualización de Datos
 ================================================================================
 
-AUTOR      : Fayder Arroyo Herazo
+ESTUDIANTES: Juan Alvarez – Fayder Arroyo – Rafael Sevilla
+DOCENTE    : Laura Mancera
+ASIGNATURA : Visualización de Datos · Especialización en Analítica de Datos e Información
+INSTITUCIÓN: Fundación Universitaria Tecnológico Comfenalco · Cartagena de Indias, mayo de 2026
 TECNOLOGÍA : Python · Streamlit · Supabase (PostgreSQL) · Plotly
-FECHA      : Mayo 2026
 
 ________________________________________________________________________________
 TABLA DE CONTENIDOS
@@ -616,10 +618,11 @@ ________________________________________________________________________________
   (tema claro) para maximizar la legibilidad en navegadores, mientras que los 
   gráficos y contenedores usan Glassmorphism con fondos semitransparentes.
 
-• Para desplegar en producción (internet público) se puede usar:
-  → Streamlit Community Cloud (gratis): https://streamlit.io/cloud
-  → Solo requiere un repositorio en GitHub con el app.py y requirements.txt
-  → Las credenciales de Supabase se configuran como "Secrets" en la plataforma
+• Proyecto alojado y versionado en GitHub:
+  → Repositorio oficial: https://github.com/fayderarroyo/datamart-colombia-2026
+  → Despliegue en Streamlit Community Cloud leyendo directamente desde la rama 'main'.
+  → Las credenciales de Supabase (archivo .env) están excluidas del control de
+    versiones (.gitignore) y deben configurarse como "Secrets" en Streamlit.
 
 ================================================================================
   "No es donde vive más gente, sino donde crece más rápido el consumidor
