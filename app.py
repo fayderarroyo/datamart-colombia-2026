@@ -402,17 +402,17 @@ with k1:
     </div>""", unsafe_allow_html=True)
 with k2:
     st.markdown(f"""
-    <div class="kpi-card" style="--accent-color: linear-gradient(90deg,#7c3aed,#8b5cf6);">
-        <div class="kpi-label" title="Métrica compuesta que evalúa el atractivo comercial digital de una ciudad, integrando la cobertura 4G con la capacidad económica poblacional.">Índice Potencial Digital <span style="cursor:help; opacity:0.9; font-size:1.1em; color:#93c5fd; margin-left: 4px;">ⓘ</span></div>
-        <div class="kpi-value" style="--value-gradient: linear-gradient(90deg,#a78bfa,#c4b5fd);">{ipd_promedio:.2f}</div>
-        <div class="kpi-delta">★ Top: {top_ipd_ciudad.split(' ')[0]}</div>
-    </div>""", unsafe_allow_html=True)
-with k3:
-    st.markdown(f"""
     <div class="kpi-card" style="--accent-color: linear-gradient(90deg,#059669,#10b981);">
         <div class="kpi-label" title="Indicador de retorno de inversión potencial. Un mayor score indica que cuesta menos impactar a un usuario con capacidad adquisitiva real.">Score Eficiencia Costo <span style="cursor:help; opacity:0.9; font-size:1.1em; color:#6ee7b7; margin-left: 4px;">ⓘ</span></div>
         <div class="kpi-value" style="--value-gradient: linear-gradient(90deg,#34d399,#6ee7b7);">{score_ef_promedio:.2f}</div>
         <div class="kpi-delta">1 / Tasa Desempleo × 100</div>
+    </div>""", unsafe_allow_html=True)
+with k3:
+    st.markdown(f"""
+    <div class="kpi-card" style="--accent-color: linear-gradient(90deg,#7c3aed,#8b5cf6); box-shadow: 0 0 20px rgba(139,92,246,0.5); transform: scale(1.04); border: 1px solid rgba(139,92,246,0.6); z-index: 10;">
+        <div class="kpi-label" title="Métrica compuesta que evalúa el atractivo comercial digital de una ciudad, integrando la cobertura 4G con la capacidad económica poblacional.">Índice Potencial Digital <span style="cursor:help; opacity:0.9; font-size:1.1em; color:#93c5fd; margin-left: 4px;">ⓘ</span></div>
+        <div class="kpi-value" style="--value-gradient: linear-gradient(90deg,#a78bfa,#c4b5fd);">{ipd_promedio:.2f}</div>
+        <div class="kpi-delta">★ Top: {top_ipd_ciudad.split(' ')[0]}</div>
     </div>""", unsafe_allow_html=True)
 with k4:
     st.markdown(f"""
